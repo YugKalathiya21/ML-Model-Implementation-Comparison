@@ -67,7 +67,7 @@ The following models were implemented:
 ---
 
 ## 📂 Project Files
-- `dataset.csv` → Input dataset  
+- `customer_retail.csv` → Input dataset  
 - `ML_Model_Comparison.ipynb` → Model implementation  
 - `README.md` → Documentation  
 
